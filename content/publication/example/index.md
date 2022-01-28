@@ -23,7 +23,7 @@ abstract: Push-out tests were conducted on 15 groups of symmetric timber-timber
   rope effect on the full range load-slip response and ultimate load carrying
   capacity of the TTC joints with dowel shear connectors.
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/sdfe/reader/pii/S0950061821010333/pdf"
 publication_types:
   - "2"
 authors:
