@@ -22,7 +22,7 @@ abstract: Push-out tests were conducted on 15 groups of symmetric timber-timber
   load with EYM and FE predictions demonstrated the significant influence of the
   rope effect on the full range load-slip response and ultimate load carrying
   capacity of the TTC joints with dowel shear connectors.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -40,28 +40,27 @@ url_source: ""
 url_video: ""
 title: Experimental behaviour and numerical modelling of timber-timber composite
   (TTC) joints
-doi: ""
+doi: https://www.sciencedirect.com/science/article/abs/pii/S0950061821010333
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: screenshot-2022-01-29-074538.png
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
+<!--{{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}}!
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).-->
